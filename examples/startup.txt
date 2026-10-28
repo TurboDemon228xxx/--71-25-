@@ -1,0 +1,17 @@
+# All successful commands; window stays open for interactive input.
+ls
+ls /home
+ls /readme.txt
+cd /home/student/docs
+ls .
+cd ..
+ls
+cd
+ls
+cd ../../..
+du
+du -s /home
+du /binary.bin
+tree
+tree /home/student
+tree /readme.txt

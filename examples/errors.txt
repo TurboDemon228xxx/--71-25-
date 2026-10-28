@@ -1,0 +1,3 @@
+# First error stops execution; ls below must not run.
+cd /missing
+ls

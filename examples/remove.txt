@@ -1,0 +1,11 @@
+# All changes exist only until this emulator closes.
+tree
+rm /binary.bin
+rm /home/student/hello.txt
+rm -r /home/student/docs
+rm -R /empty
+tree
+du -s /
+# Missing operand: execution stops here.
+rm
+ls

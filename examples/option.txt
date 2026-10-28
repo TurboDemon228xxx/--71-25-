@@ -1,0 +1,2 @@
+tree -x
+ls
